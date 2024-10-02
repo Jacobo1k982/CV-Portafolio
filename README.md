@@ -7,7 +7,7 @@
 
 ---
 
-![portafolio-presentacion]()
+![portafolio-presentacion](https://ibb.co/yS5Js0V)
 
 ---
 

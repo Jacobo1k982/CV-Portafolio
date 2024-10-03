@@ -7,9 +7,9 @@
 
 ---
 
-![portafolio-presentacion] (https://ibb.co/yS5Js0V)
+![portafolio-presentacion](https://ibb.co/yS5Js0V)
 
 ---
 
-[**Link del sitio web** ✌] (https://jacobo1k982.github.io/CV-Portafolio/)
+[**Link del sitio web** ✌](https://jacobo1k982.github.io/CV-Portafolio/)
 ---
